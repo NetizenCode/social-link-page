@@ -18,9 +18,10 @@ body {
 }
 
 img {
-    border-radius: 50%;
+    border-radius: 999px;
     border: 6px solid hsl(0, 0%, 8%);
     width: 100px;
+    height: 100px;
     display: block;
     margin: auto;
     object-fit: cover;
